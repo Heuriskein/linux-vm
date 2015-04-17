@@ -1,0 +1,11 @@
+{
+  "id": "rmills",
+  "shell": "/bin/bash",
+  "comment": "Ryan Mills",
+  "desktop-autologin": "true",
+  "disable-screensaver": "true",
+  "dotfiles-repo": "https://github.com/Heuriskein/dotfiles",
+  "ssh_keys": [
+    ],
+  "groups": [ "sysadmin" ]
+}
